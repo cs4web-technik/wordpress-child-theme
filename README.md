@@ -1,6 +1,7 @@
 # Wordpress Child Themes
 ## Einleitung
-**Die erstellung eines Child Themes sollte immer der erste Schritt sein** Anpassungen, weche zuvor im Customizer gemacht werden, gehen verloren.
+**Die erstellung eines Child Themes sollte immer der erste Schritt sein.**  
+Anpassungen, weche zuvor im Customizer gemacht werden, gehen verloren.
 
 Leider gibt es keinen einheitlichen Weg um ein Child theme zu erstellen. Es ändert sich geringfügig je nach parent theme.
 
@@ -8,7 +9,7 @@ Leider gibt es keinen einheitlichen Weg um ein Child theme zu erstellen. Es änd
 Die **Ordner** in diesem Repo sind die Vorlage für das Child Theme.  
 
 **Option 1:**  
-Man wählt `/_generic_type-1/` bzw. `/_generic_type-2/` aus, welche noch angepasst werden müssen. Mehr dazu hier: https://developer.wordpress.org/themes/advanced-topics/
+Man wählt `/_generic_type-1/` bzw. `/_generic_type-2/` aus, welche noch angepasst werden müssen. Mehr dazu hier: https://developer.wordpress.org/themes/advanced-topics/child-themes/
 
 **Option 2:**  
 Man wählt sich einen Ordner aus, welcher schon auf ein bestimmtes Parent Theme angpasst wurde: *noch offen*   
